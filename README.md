@@ -1,0 +1,1 @@
+A simple pedagogical project with no ideological purposes. The media content includes AI and serves as a demonstration of learning. It was carried out in a school environment (2024) during the final year of high school, through the Alura Start educational program.
